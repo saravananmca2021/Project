@@ -1,0 +1,67 @@
+{
+  
+  "firstName": "Saravana",
+  "lastName": "Kumar",
+  "email": "Saravanan@gmail.com",
+  "mobile": 9790132472,
+  "customerId": 455,
+  "userName": "saran",
+  "password": "saran",
+  "oldPassword": "saran",
+  "account": [
+    {
+
+      "accountNumberGenerated": "1234567",
+      "dateCreated": "2023-02-08T09:13:10.773Z",
+      "dateLastUpdated": "2023-02-08T09:13:10.773Z",
+      "currentAccountBalance": 1000,
+      "block": false,
+      "customerId": 455
+      
+    }
+  ],
+  "address": [
+    {
+      
+      "customerId": 455,
+      "address1": "Kerranatham",
+      "address2": "SaravanaPatti",
+      "address3": "4thStree",
+      "pincode": 641032
+      
+    }
+  ]
+}
+
+
+UpdateProfile:
+{  
+  "firstName": "Senthil",
+  "lastName": "Kumar",
+  "email": "senthil@gmail.com",
+  "mobile": 1234567,
+  "customerId": 5
+}
+
+Deposit:
+ {
+  "accounNumber": "7510499499",
+  "amount": 40,
+  "customerId": 51
+}
+ Fundtramsfer:
+ {
+  "toAccount": "3445741580",
+  "amount": 50,
+  "fromAccount": "3409826671",
+  "customerId": 5
+}
+ Withdrawal:
+ {
+  "accounNumber": "3445741580",
+  "amount": 1000,
+  "customerId": 5
+}
+
+
+Hi, My Asset is Linked to Microsoft Account and Microsoft OS is been Installed which does not allow Wipro Domain to access ,  as i am moving to new project out of Microsoft, kindly reset the Operating System to access the Wipro Domain.  
